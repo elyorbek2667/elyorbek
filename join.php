@@ -1,5 +1,5 @@
 <?php
-define("UZKOD","tokennn");
+define("UZKOD","1305012304:AAFovFph6vBkmdQiUmbBg_NuOcsE6d5OzHU");
 $admin = "591361014";
 
 function  top($chatid){
